@@ -8,6 +8,7 @@
 
 <a href="https://vk.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | VK" width="22px" src="./images/vk.svg" /></a>
 <a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="./images/insta.svg" />
+<a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="./images/insta.svg" />
 
 <br/>
 <br/>
@@ -19,8 +20,8 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/javascript.svg" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/typescript.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/git.svg" /></a>
-<a href="https://ru.wordpress.org/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/wordpress.svg" /></a>
 <img align="left" border="0" alt="GitHub" width="26px" src="./images/github.svg" />
+<a href="https://ru.wordpress.org/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/wordpress.svg" /></a>
 
 <br />
 <br />
@@ -28,9 +29,7 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.svg" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" border="0" alt="XD" width="26px" src="./images/xd.svg"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" border="0" alt="Photoshop" width="26px" src="./images/photoshop.svg"/></a>
-<a href="https://figma.com/" target="_blank"> <img align="left" border="0" alt="figma" width="26px" src="./images/figma.svg"/></a>
+<a href="https://figma.com/" target="_blank"><img align="left" border="0" alt="figma" width="26px" src="./images/figma.svg"/></a>
 
 <br />
 <br />
