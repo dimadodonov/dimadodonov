@@ -8,7 +8,6 @@
 
 <a href="https://vk.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | VK" width="22px" src="./images/vk.svg" /></a>
 <a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="./images/insta.svg" />
-<a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Anton U | Instagram" width="22px" src="./images/insta.svg" />
 
 <br/>
 <br/>
@@ -29,7 +28,8 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.svg" />
-<a href="https://figma.com/" target="_blank"><img align="left" border="0" alt="figma" width="26px" src="./images/figma.svg"/></a>
+<a href="https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" target="_blank"><img align="left" border="0" alt="Windows Terminal" width="26px" height="26px" src="./images/windows_terminal.svg"/></a>
+<a href="https://www.figma.com/@dimadodonov" target="_blank"><img align="left" border="0" alt="figma" width="26px" height="26px" src="./images/figma.svg"/></a>
 
 <br />
 <br />
