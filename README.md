@@ -32,9 +32,11 @@
 <a href="https://www.microsoft.com/ru-ru/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab" target="_blank"><img align="left" border="0" alt="Windows Terminal" width="26px" height="26px" src="./images/windows_terminal.svg"/></a>
 <a href="https://www.figma.com/@dimadodonov" target="_blank"><img align="left" border="0" alt="figma" width="26px" height="26px" src="./images/figma.svg"/></a>
 <a href="https://www.sketch.com/" target="_blank"><img align="left" border="0" alt="figma" width="26px" height="26px" src="./images/sketch.svg"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" border="0" alt="XD" width="26px" src="./images/xd.svg"/></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img align="left" border="0" alt="XD" width="26px" src="./images/xd.svg"/></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img align="left" border="0" alt="Photoshop" width="26px" src="./images/photoshop.svg"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img align="left" border="0" alt="Photoshop" width="26px" src="./images/photoshop.svg"/></a>
+
+<br />
+<br />
 
 ### Project management:
 
