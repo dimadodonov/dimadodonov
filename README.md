@@ -1,4 +1,4 @@
-### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! I'm Dima Dodonov, frontend developer.
+### Hello there <img src="./images/wave.gif" width="35px"> Welcome to my GitHub! I'm Dima Dodonov, frontend developer and WordPress developer.
 
 <br/>
 
