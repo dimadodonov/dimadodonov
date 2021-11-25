@@ -49,13 +49,6 @@
   
 ---
 
-### Music for development 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/dimadodonov)
-<br/>
-
----
-
 <br />
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dimadodonov/dimadodonov/output/github-contribution-grid-snake.svg)
