@@ -46,13 +46,3 @@
 
 <br />
 <br />
-  
----
-
-<br />
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/dimadodonov/dimadodonov/output/github-contribution-grid-snake.svg)
-
-<!-- <br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zdimadodonov.dimadodonov) -->
