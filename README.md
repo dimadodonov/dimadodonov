@@ -5,7 +5,7 @@
 ### Connect with me :smiley:
 
 <a href="https://t.me/DimaDodonov" target="_blank"><img align="left" alt="Dima D | Telegram" width="22px" src="./images/telegram.svg" /></a>
-<a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Dima D | Instagram" width="22px" src="./images/insta.svg" />
+<a href="https://www.instagram.com/dimadodonov" target="_blank"><img align="left" alt="Dima D | Instagram" width="22px" src="./images/instagram.svg" />
 
 <br/>
 <br/>
