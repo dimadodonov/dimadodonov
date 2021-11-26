@@ -18,7 +18,6 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" border="0" alt="CSS3" width="26px" src="./images/typescript.svg" /></a>
 <a href="https://ru.reactjs.org/" target="_blank"><img align="left" border="0" alt="React" width="26px" height="26px" src="./images/react.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/git.svg" /></a>
-<img align="left" border="0" alt="GitHub" width="26px" src="./images/github.svg" />
 <a href="https://ru.wordpress.org/" target="_blank"><img align="left" border="0" alt="git" width="26px" src="./images/wordpress.svg" /></a>
 
 <br />
